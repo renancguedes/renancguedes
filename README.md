@@ -8,7 +8,7 @@
 
 ◉ **Desenvolvedor e Analista de Dados com mais de 3 anos de experiência** <br>
 ◉ **Graduando na reta final do curso de Ciência da Computação** <br>
-◉ **Tenho domínio em **Sistemas Web, APIs, Automações e Dashboards** <br>
+◉ **Tenho domínio em Sistemas Web, APIs, Automações e Dashboards** <br>
 
 ---
 

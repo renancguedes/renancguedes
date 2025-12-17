@@ -17,7 +17,7 @@
 
 | Projeto                                                                         | Descrição                                                                                           | Tecnologias                                                     |
 | ----------------------------------------------------------------------------    | ----------------------------------------------------------------------------------------------------| --------------------------------------------------------------  |
-| **[Estoque](https://github.com/Renan-Guedes/Controle_De_Estoque)**  | Controle de Estoque com autenticação de usuários, gerenciamento de produtos, categorias, limites e movimentações | Python • Django • Bootstrap                        
+| **[Estoque](https://github.com/renancguedes/Controle_De_Estoque)**  | Controle de Estoque com autenticação de usuários, gerenciamento de produtos, categorias, limites e movimentações | Python • Django • Bootstrap                        
 
 ---
 
@@ -28,12 +28,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renan-Guedes&show_icons=true&include_all_commits=true&count_private=true&theme=merko&rank_icon=github&border_radius=10" height="150" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renan-Guedes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&border_radius=10" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renancguedes&show_icons=true&include_all_commits=true&count_private=true&theme=merko&rank_icon=github&border_radius=10" height="150" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renancguedes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&border_radius=10" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Renan-Guedes/Renan-Guedes/output/github-contribution-grid.svg" alt="animation" />
+  <img src="https://raw.githubusercontent.com/renancguedes/renancguedes/output/github-contribution-grid.svg" alt="animation" />
 </div>

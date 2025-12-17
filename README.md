@@ -1,15 +1,14 @@
 <h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá! Eu sou o Renan Guedes</h1>
 
-**`Desenvolvedor Python | Django | .NET | Javascript | REST API | Automações | SQL, MySQL & Banco de Dados | BI & Análise de Dados`**
+**`Desenvolvedor Fullstack com domínio em Python | .NET | Javascript | PHP | REST API | SQL & Banco de Dados | BI & Análise de Dados`**
 
 ## Sobre mim
 
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="100"/>
 
-◉ Desenvolvedor com quase 3 anos de experiência e na reta final da graduação em **Ciência da Computação** <br>
-◉ Crio **sistemas web, APIs, automações e dashboards** para aumentar eficiência e clareza nos negócios <br>
-◉ Posso fornecer soluções com **Power BI, Looker Studio, SQL, MySQL e Excel** para transformar dados em decisões estratégicas <br>
-◉ Também possuo experiência com **.NET e Javascript**, usados como suporte em projetos específicos
+◉ Desenvolvedor e Analista de Dados com mais de 3 anos de experiência** <br>
+◉ Graduando na reta final do curso de Ciência da Computação** <br>
+◉ Tenho domínio em **Sistemas Web, APIs, Automações e Dashboards** <br>
 
 ---
 

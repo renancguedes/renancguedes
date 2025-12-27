@@ -23,6 +23,7 @@ Meu foco está em construir soluções robustas no backend, automatizar processo
 
 | Projeto | Descrição | Tecnologias |
 |--------|----------|-------------|
+| **[Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiYzEwYzk2ZTQtMmQ1OC00NmVmLTllNWQtOWUzMjZlOGI5MTQxIiwidCI6IjQ2MDJiYjMzLTkwMDEtNDg3NC1hYjQwLTEwY2Q0MzYyNzY0OSJ9)** | Dashboard de Vendas para oferecer uma visão clara e estratégica do resultado anual de vendas de uma empresa | Power BI • DAX |
 | **[Controle de Estoque](https://github.com/renancguedes/Controle_De_Estoque)** | Sistema de controle de estoque com autenticação, gerenciamento de produtos, categorias, movimentações e regras de negócio | Python • Django • Bootstrap |
 
 ---

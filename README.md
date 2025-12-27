@@ -11,7 +11,7 @@
 
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="100"/>
 
-◉ **Desenvolvedor Back-end com mais de 3 anos de experiência, atuando com sistemas, APIs e soluções orientadas a dados** <br>
+◉ **Desenvolvedor Back-end e analista de dados com mais de 3 anos de experiência, atuando com sistemas, APIs e soluções orientadas a dados** <br>
 ◉ **Graduando na reta final do curso de Ciência da Computação** <br>
 ◉ **Experiência prática com Sistemas Web, Automações, Integrações e Dashboards para apoio à decisão** <br>
 

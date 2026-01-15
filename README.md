@@ -56,12 +56,5 @@ Meu foco está em construir soluções robustas no backend, automatizar processo
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renancguedes&show_icons=true&include_all_commits=true&count_private=true&theme=merko&rank_icon=github&border_radius=10" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renancguedes&locale=pt-br&layout=compact&langs_count=5&theme=merko&border_radius=10" height="150" />
-</div>
-
----
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/renancguedes/renancguedes/output/github-contribution-grid.svg" alt="github contribution grid animation" />
 </div>

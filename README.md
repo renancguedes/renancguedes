@@ -24,7 +24,7 @@ Meu foco está em construir soluções robustas no backend, automatizar processo
 | Projeto | Descrição | Tecnologias |
 |--------|----------|-------------|
 | **[Dashboard de Vendas](https://github.com/renancguedes/Dashboard-de-Vendas)** | Dashboard de Vendas para oferecer uma visão clara e estratégica do resultado anual de vendas de uma empresa | Power BI • DAX |
-| **[Fake Pinterest](https://github.com/renancguedes/FakePinterest)** | Sistema de postagem de imagens semelhante ao Pinterest e com autenticação de usuários | Python • Flask • Bootstrap
+| **[Fake Pinterest](https://github.com/renancguedes/FakePinterest)** | Aplicação web inspirada no Pinterest, com autenticação de usuários e postagem de imagens | Python • Flask • Jinja2 • Flask-WTF (WTForms) • Flask-SQLAlchemy
 | **[Controle de Estoque](https://github.com/renancguedes/Controle_De_Estoque)** | Sistema de controle de estoque com autenticação, gerenciamento de produtos, categorias, movimentações e regras de negócio | Python • Django • Bootstrap |
 
 ---

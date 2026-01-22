@@ -31,26 +31,17 @@ Meu foco está em construir soluções robustas no backend, automatizar processo
 
 ## Habilidades Técnicas
 
-### **Linguagens de Programação**
-- Python, C#, JavaScript, PHP.
+**Desenvolvimento:** JavaScript ( Node.js ), Python ( Django, Flask, FastAPI ), C# ( ASP.NET Core ), PHP;
 
-### **Frameworks**
-- Django, Flask, FastAPI, ASP.NET Core.
+**Dados e BI:** SQL, MySQL, PostgreSQL, Oracle, Power BI, Pandas, Excel, Looker Studio;
 
-### **Dados e BI**
-- SQL, MySQL, PostgreSQL, Oracle, Power BI, Pandas, Excel, Looker Studio.
+**Web:** HTML, CSS, Bootstrap, WordPress, Elementor, Figma;
 
-### **Desenvolvimento Web:**
-- HTML, CSS, Bootstrap, WordPress, Elementor, Figma.
+**Versionamento e Cloud:** AWS, Git, GitHub;
 
-### **Versionamento e Cloud**
-- AWS, Git, GitHub.
+**Automações:** Selenium, Pentaho Data Integration;
 
-### **Automações**
-- Selenium, Pentaho Data Integration.
-
-### **Metodologias Ágeis**
-- Kanban, Scrum, OKR, GTD.
+**Metodologias Ágeis:** Kanban, Scrum, OKR, GTD.
 
 
 ---

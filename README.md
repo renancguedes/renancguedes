@@ -3,7 +3,7 @@
   Olá! Eu sou o Renan Guedes
 </h1>
 
-**`Desenvolvedor Back-end e Analista de Dados | Python, .NET e JavaScript | APIs REST, SQL, BI e soluções orientadas a dados`**
+**`Desenvolvedor Back-end e Analista de Dados | JavaScript & Node.js, Python e .NET | APIs REST, SQL, BI e soluções orientadas a dados`**
 
 ---
 

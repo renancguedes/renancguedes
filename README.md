@@ -31,7 +31,7 @@ Meu foco está em construir soluções robustas no backend, automatizar processo
 
 ## Habilidades Técnicas
 
-**Desenvolvimento:** JavaScript ( Node.js ), Python ( Django, Flask, FastAPI ), C# ( ASP.NET Core );
+**Desenvolvimento:** JavaScript ( Node.js, Express ), Python ( Django, Flask, FastAPI ), C# ( ASP.NET Core );
 
 **Dados e BI:** SQL, MySQL, PostgreSQL, Oracle, Power BI, Pandas, Excel, Looker Studio;
 

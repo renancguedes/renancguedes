@@ -3,7 +3,7 @@
   Olá! Eu sou o Renan Guedes
 </h1>
 
-**`Software Engineer | Python, Javascript, Dados & BI | APIs, Automação e IA Aplicada`**
+**`Software Engineer | Python, Javascript, .NET, Dados & BI | APIs, Automação e IA Aplicada`**
 
 ---
 

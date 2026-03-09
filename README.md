@@ -52,6 +52,7 @@ Tenho experiência na construção de sistemas utilizados em operações reais d
 
 **Cloud & Ferramentas**
 - AWS
+- Azure
 - Git
 - GitHub
 

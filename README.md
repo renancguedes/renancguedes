@@ -3,48 +3,64 @@
   Olá! Eu sou o Renan Guedes
 </h1>
 
-**`Software Engineer | Python, Javascript, .NET, Dados & BI | APIs, Automação e IA Aplicada`**
+**Software Engineer | ERP, Integração de Sistemas e Automação | Python, JavaScript, Node.js, .NET | APIs, Dados & BI**
 
 ---
 
-## 🟢 Sobre mim
+## Sobre mim
 
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="100"/>
+Sou engenheiro de software com mais de **3 anos de experiência** no desenvolvimento e evolução de **sistemas internos e soluções voltadas a ERP**, atuando principalmente com backend, APIs, integrações e dados.
 
-Sou engenheiro de software com mais de **3 anos de experiência** atuando no desenvolvimento e sustentação de sistemas em produção, APIs e soluções orientadas a dados, atendendo múltiplas unidades de negócio.
+Tenho experiência na construção de sistemas utilizados em operações reais de negócio, trabalhando com **automação de processos, integração de sistemas e geração de dados para relatórios e dashboards operacionais**.
 
-Atuo principalmente no **backend**, com foco em **Python**, automações e integração de sistemas, além de trabalhar com **dados e BI** para apoiar decisões estratégicas.
-
-- Graduando em Ciência da Computação  
-- Experiência prática com dados, ETL, dashboards, automações e Inteligência Artificial 
-- Forte atuação próxima das áreas de negócio
+- Graduando em **Ciência da Computação**
+- Experiência com **backend, dados, ETL e automações**
+- Atuação próxima das áreas de negócio traduzindo demandas operacionais em soluções técnicas
 
 ---
 
-## 🟢 Vitrine de Projetos
+## Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|----------|-------------|
-| **[Dashboard de Vendas](https://github.com/renancguedes/Dashboard-de-Vendas)** | Dashboard analítico para visualização estratégica de resultados anuais de vendas | Power BI • DAX |
-| **[Fake Pinterest](https://github.com/renancguedes/FakePinterest)** | Aplicação web inspirada no Pinterest, com autenticação e upload de imagens | Python • Flask • Jinja2 • SQLAlchemy |
+| **[Dashboard de Vendas](https://github.com/renancguedes/Dashboard-de-Vendas)** | Dashboard analítico para visualização estratégica de resultados de vendas | Power BI • DAX |
+| **[Fake Pinterest](https://github.com/renancguedes/FakePinterest)** | Aplicação web inspirada no Pinterest com autenticação e upload de imagens | Python • Flask • SQLAlchemy |
 | **[Controle de Estoque](https://github.com/renancguedes/Controle_De_Estoque)** | Sistema completo de controle de estoque com regras de negócio | Python • Django • Bootstrap |
 
 ---
 
-## 🟢 Principais stacks e focos técnicos
+## Principais stacks
 
-- **Backend:** Python (FastAPI, Flask, Django), JavaScript (Node.js, Express), C# (.NET / ASP.NET)
+**Backend**
+- Python (FastAPI, Flask, Django)
+- JavaScript (Node.js, Express)
+- C# (.NET / ASP.NET)
 
-- **Dados & BI:** SQL Server, MySQL, PostgreSQL, Oracle, Pandas, Power BI, Looker Studio, Excel avançado, Pentaho Data Integration
+**Dados & BI**
+- SQL Server, MySQL, PostgreSQL, Oracle
+- Pandas
+- Power BI, Looker Studio
+- Excel Avançado
+- Pentaho Data Integration
 
-- **IA Aplicada, LLMs & Automações:** Integração com OpenAI, uso de modelos e pipelines do Hugging Face, construção de fluxos com LangChain, Python para automações e Selenium.
+**Automação e IA**
+- Integração com OpenAI
+- Hugging Face
+- LangChain
+- Selenium
+- N8N
 
-- **Cloud & Versionamento:** AWS, Git, GitHub
-
-- **Metodologias Ágeis:** Scrum, Kanban, OKRs, GTD
+**Cloud & Ferramentas**
+- AWS
+- Git
+- GitHub
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/renancguedes/renancguedes/output/github-contribution-grid.svg" alt="github contribution grid animation" />
-</div>
+## Contato
+
+🌐 **Portfólio:**  
+https://renanguedes.com
+
+💼 **LinkedIn:**  
+https://linkedin.com/in/renancguedes
